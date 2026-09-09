@@ -1,0 +1,2 @@
+line 1 -- Learning the git commands
+line 2 -- next line to inserting some text
